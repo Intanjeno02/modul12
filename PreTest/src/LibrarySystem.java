@@ -50,7 +50,7 @@ class LibraryManager {
     }
 }
 
-public class Main {
+public class LibrarySystem {
     public static void main(String[] args) {
         FineKalku kalku = new DendaStandar();
         FormatterStruk struk = new StrukTeks();
